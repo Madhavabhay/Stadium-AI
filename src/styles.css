@@ -4,12 +4,7 @@
 
 @custom-variant dark (&:is(.dark *));
 
-/*
- * StadiumMind AI — command-center design system.
- * Always-dark, telemetry-first. Cyan/orange/neon-green signal colors
- * on obsidian surfaces. Space Grotesk for display, Inter for body,
- * JetBrains Mono for numeric/telemetry readouts.
- */
+
 
 @theme inline {
   --radius-sm: calc(var(--radius) - 4px);
